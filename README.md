@@ -1,1 +1,1 @@
-# VirtualPager
+# Virtual Pager
